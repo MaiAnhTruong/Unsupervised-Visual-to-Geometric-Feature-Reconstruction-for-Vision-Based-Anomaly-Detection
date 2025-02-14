@@ -1,6 +1,6 @@
 # Unsupervised geometric-guided industrial anomaly detection
 
-![Overview](overview.png)
+![Overview](docs/overview.png)
 
 ## Install
 You should install all the necessary dependencies in the `./requirements.txt` file.
@@ -39,7 +39,7 @@ You can specify the following options:
 - `--produce_qualitatives`: Flag to save qualitative during inference.
 
 ## Result
-![Result](result.png)
+![Result](docs/result.png)
 
 ## Note
 - The code utilizes `wandb` during training to log results. Please be sure to have a wandb account. Otherwise, if you prefer to not use `wandb`, disable it in `training.py` with the `flag mode = disabled`.
