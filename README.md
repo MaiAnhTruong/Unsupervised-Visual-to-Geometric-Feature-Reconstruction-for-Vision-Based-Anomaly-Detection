@@ -1,5 +1,9 @@
 # Unsupervised geometric-guided industrial anomaly detection
 
+## Paper
+Our paper is now publicly available. For more details, please visit: [IEEE Xplore](https://ieeexplore.ieee.org/document/10820339).
+
+
 ![Overview](docs/overview.png)
 
 ## Install
